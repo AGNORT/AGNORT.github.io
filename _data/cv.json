@@ -51,8 +51,8 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": ["BPC", "Heuristics", "Dynamic Programming", "Reinforcement Learning"],
+  "languages": ["Chinese", "English"],
   "interests": [],
   "references": [],
   "publications": [
