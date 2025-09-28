@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D Student in Beihang University, China, 2022-2026 (expected)
-* Visitign Ph.D. Student in University of Padova, Italy, 2024-2025
-* Master Student in Beihang University, China, 2020-2022
+* Ph.D. Student at Beihang University, China, 2022-2026 (expected)
+* Visiting Ph.D. Student at University of Padova, Italy, 2024-2025
+* Master Student at Beihang University, China, 2020-2022
 
 <!-- Work experience
 ======
